@@ -7,7 +7,7 @@
   - [Metasploitable](https://github.com/jackbarbaria/LABURL)
 
 - <b>TryHackMe Hacktivities</b>
-  - [Jr Pentester - Learning Path Projects](https://github.com/jackbarbaria/LABURL)
+  - [TryHackMe - SkyNet](https://github.com/jackbarbaria/THMskynet)
   - [SOC Level 1  - Learning Path Projects](https://github.com/jackbarbaria/LABURL)
   - [CTF Rooms](https://github.com/jackbarbaria/LABURL)
 
