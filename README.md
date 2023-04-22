@@ -2,17 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Home Lab</b>
-  - [Active Directory Lab](https://github.com/jackbarbaria/LABURL)
-  - [Metasploitable](https://github.com/jackbarbaria/LABURL)
-
 - <b>TryHackMe Hacktivities</b>
   - [TryHackMe - SkyNet](https://github.com/jackbarbaria/THMskynet)
-  - [SOC Level 1  - Learning Path Projects](https://github.com/jackbarbaria/LABURL)
-  - [CTF Rooms](https://github.com/jackbarbaria/LABURL)
-
-- <b>Python</b>
-  - [Python Projects](https://github.com/jackbarbaria/LABURL)
 
 <h2>📜 Certifications</h2>
 
