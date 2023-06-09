@@ -5,6 +5,11 @@
 - <b>TryHackMe Hacktivities</b>
   - [TryHackMe - SkyNet](https://github.com/jackbarbaria/THMskynet)
 
+<h2>👨‍💻 Coding Projects</h2>
+
+- <b>100 Days of Code: Python</b>
+  - [Days 1 - 10 (In Progress)](https://github.com/jackbarbaria/Days1_10)
+
 <h2>📜 Certifications</h2>
 
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/1afe34fb-e64d-464b-a2c6-cbf701344cde)
