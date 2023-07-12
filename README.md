@@ -8,7 +8,8 @@
 <h2>👨‍💻 Coding Projects</h2>
 
 - <b>100 Days of Code: Python</b>
-  - [Days 1 - 10 (In Progress)](https://github.com/jackbarbaria/100-Days_1-10)
+  - [Days 1 - 10](https://github.com/jackbarbaria/100-Days_1-10)
+  - [Days 11 - 20(In Progress)](https://github.com/jackbarbaria/100-Days_11-20)
 
 <h2>📜 Certifications</h2>
 
